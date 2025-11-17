@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="flex flex-col items-center gap-6 sm:flex-row sm:items-center sm:gap-8 sm:justify-between">
           <div className="text-left sm:text-left">
             <h1 className="text-4xl sm:text-5xl font-extrabold text-slate-900 leading-tight">
-              Hi, I'm <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-500">Your Name</span>
+              Hi, I'm <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-500">ABDALLAH BENOMAR</span>
             </h1>
             <p className="mt-4 text-lg text-slate-600 max-w-xl">I build accessible, performant web applications — primarily with React, Vite, and Tailwind CSS. I enjoy turning designs into delightful user experiences.</p>
 
