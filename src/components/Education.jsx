@@ -52,8 +52,8 @@ const educations = [
   {
     id: 9,
     title: 'Additional Certifications — Driving License (Category B)',
-    period: 'Valid',
-    details: ['Valid driving license (Category B) allowing operation of standard vehicles.']
+    period: '2013',
+    details: ['2013 driving license (Category B) allowing operation of standard vehicles.']
   }
 ]
 
