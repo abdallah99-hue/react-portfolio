@@ -33,9 +33,9 @@ const educations = [
   },
   {
     id: 6,
-    title: 'B.Sc. in Computer Science — University A',
-    period: '2016 – 2020',
-    details: ['Bachelor\'s degree in Computer Science.']
+    title: 'Computer Office Skills Certificate',
+    period: '2016',
+    details: ['Certificate demonstrating proficiency in office software and tools such as Word, Excel, PowerPoint, and email management for professional administrative tasks.']
   },
   {
     id: 7,
