@@ -13,7 +13,7 @@ export default function Navbar() {
             <div className="flex items-center gap-4">
               <a href="#" className="flex items-center gap-3">
                 <span className="w-9 h-9 rounded-full bg-gradient-to-tr from-indigo-600 to-purple-500 inline-block shadow-lg ring-1 ring-white/30" />
-                <span className="text-lg font-semibold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">YourName</span>
+                <span className="text-lg font-semibold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">ABDALLAH BENOMAR</span>
               </a>
 
               <nav className="hidden md:flex gap-3 text-sm items-center">
