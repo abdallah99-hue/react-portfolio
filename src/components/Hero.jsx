@@ -18,8 +18,8 @@ export default function Hero() {
           </div>
 
           <div className="mt-6 sm:mt-0">
-            <div className="w-36 h-36 rounded-full bg-gradient-to-tr from-indigo-100 to-pink-100 flex items-center justify-center shadow-lg ring-4 ring-white/60 dark:ring-slate-900/60">
-              <img src="/image" alt="ABDALLAH BENOMAR" className="w-32 h-32 rounded-full object-cover" loading="lazy" />
+            <div className="w-64 h-64 sm:w-72 sm:h-72 rounded-full bg-gradient-to-tr from-indigo-100 to-pink-100 flex items-center justify-center shadow-2xl ring-8 ring-white/70 dark:ring-slate-900/70 transition-transform transform hover:scale-105 hover:rotate-1">
+              <img src="/image.jpg" alt="ABDALLAH BENOMAR" className="w-60 h-60 sm:w-68 sm:h-68 rounded-full object-cover shadow-inner" loading="lazy" />
             </div>
           </div>
         </div>
